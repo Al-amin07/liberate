@@ -1,5 +1,8 @@
 # 🗓️ Mini Event Scheduler App
 
+Live Link: https://liberate.netlify.app/
+Live Link Server: https://libarate-five.vercel.app
+
 A full-stack Mini Event Scheduler application built with a **React (TypeScript + Tailwind CSS)** frontend and a **Node.js (Express + TypeScript)** backend. This app allows users to create, view, update, delete, and categorize events like meetings, reminders, or personal notes.
 
 One highlight of this project is a **simple AI-like categorization feature**: based on keywords in the title or notes, events are automatically classified as **Work**, **Personal**, or **Other**, demonstrating curiosity about AI/LLM integration.
