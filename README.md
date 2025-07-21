@@ -48,7 +48,15 @@ One highlight of this project is a **simple AI-like categorization feature**: ba
 ### 📦 Backend Setup
 
 ```bash
-cd backend
+cd server
+npm install
+npm run dev
+```
+
+### 📦 Frontend Setup
+
+```bash
+cd client
 npm install
 npm run dev
 
