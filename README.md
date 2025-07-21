@@ -34,5 +34,22 @@ One highlight of this project is a **simple AI-like categorization feature**: ba
 
 ---
 
-## 📁 Folder Structure
+---
+
+## 🛠️ Getting Started
+
+### ⚙️ Prerequisites
+
+- Node.js v18+ installed
+- pnpm / yarn / npm (choose one)
+
+---
+
+### 📦 Backend Setup
+
+```bash
+cd backend
+npm install
+npm run dev
+
 
